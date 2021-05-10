@@ -39,5 +39,7 @@ public class App {
         System.out.printf("TRAPEZIO: %.3f\n", areaDoTrapezio);
         System.out.printf("QUADRADO: %.3f\n", areaDoQuadrado);
         System.out.printf("RETANGULO: %.3f\n", areaDoRetangulo);
+		
+		System.out.printf("ARAGON É LINDO");
     }
 }
